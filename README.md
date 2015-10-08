@@ -1,3 +1,4 @@
 # 8-Puzzle
 
-A* algorithm implementation
+Java implementation for the A* algorithm
+
